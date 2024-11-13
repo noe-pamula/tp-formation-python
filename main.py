@@ -1,5 +1,5 @@
-from produit import Produit
-from stock import Stock
+from src.produit import Produit
+from src.stock import Stock
 
 banane = Produit("Banane", 12)
 orange = Produit("Orange", 10)
